@@ -75,9 +75,9 @@ An interactive personal portfolio built with React and Three.js, featuring 3D sc
 
 I'm always open to interesting conversations about software, system design, and SaaS — especially in construction tech and the Arab market.
 
-- **LinkedIn** — [linkedin.com/in/YOUR_HANDLE](https://linkedin.com/in/YOUR_HANDLE)
-- **Email** — [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
-- **Portfolio** — [YOUR_PORTFOLIO_URL.com](https://YOUR_PORTFOLIO_URL.com)
+- **LinkedIn** — [linkedin.com/in/YOUR_HANDLE]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/adam-el-bouchiri-aa99aa336?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- **Email** — [YOUR_EMAIL@example.com](mailto:elbouchiriadam@gmail.com)
+- **Portfolio** — [YOUR_PORTFOLIO_URL.com](https://adamelbouchiri.com)
 
 <br />
 
