@@ -1,4 +1,3 @@
-
 <h1 align="center">Adam El Bouchiri</h1>
 
 <p align="center">
@@ -7,18 +6,20 @@
 
 <p align="center">
   <em>Building SaaS for the construction industry at Taahud.</em>
+  <br />
+  <sub>Based in Morocco &nbsp;🇲🇦</sub>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE">
+  <a href="https://www.linkedin.com/in/adam-el-bouchiri">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:elbouchiriadam@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://YOUR_PORTFOLIO_URL.com">
+  <a href="https://adamelbouchiri.com">
     <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -67,17 +68,17 @@ An interactive personal portfolio built with React and Three.js, featuring 3D sc
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adamelbouchiri&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&icon_color=1f6feb&title_color=1f6feb" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamelbouchiri&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=1f6feb" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adamelbouchiri&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&icon_color=1f6feb&title_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamelbouchiri&layout=compact&bg_color=00000000&hide_border=true&langs_count=6&title_color=1f6feb&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 ## Let's Connect
 
 I'm always open to interesting conversations about software, system design, and SaaS — especially in construction tech and the Arab market.
 
-- **LinkedIn** — [https://www.linkedin.com/in/adam-el-bouchiri]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/adam-el-bouchiri-aa99aa336?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- **LinkedIn** — [linkedin.com/in/adam-el-bouchiri](https://www.linkedin.com/in/adam-el-bouchiri)
 - **Email** — [elbouchiriadam@gmail.com](mailto:elbouchiriadam@gmail.com)
-- **Portfolio** — [https://adamelbouchiri.com](https://adamelbouchiri.com)
+- **Portfolio** — [adamelbouchiri.com](https://adamelbouchiri.com)
 
 <br />
 
